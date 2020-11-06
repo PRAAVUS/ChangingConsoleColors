@@ -1,0 +1,13 @@
+C:\Users\kalfj\source\repos\ChangingConsoleColors\bin\Debug\netcoreapp3.1\ChangingConsoleColors.exe
+C:\Users\kalfj\source\repos\ChangingConsoleColors\bin\Debug\netcoreapp3.1\ChangingConsoleColors.deps.json
+C:\Users\kalfj\source\repos\ChangingConsoleColors\bin\Debug\netcoreapp3.1\ChangingConsoleColors.runtimeconfig.json
+C:\Users\kalfj\source\repos\ChangingConsoleColors\bin\Debug\netcoreapp3.1\ChangingConsoleColors.runtimeconfig.dev.json
+C:\Users\kalfj\source\repos\ChangingConsoleColors\bin\Debug\netcoreapp3.1\ChangingConsoleColors.dll
+C:\Users\kalfj\source\repos\ChangingConsoleColors\bin\Debug\netcoreapp3.1\ChangingConsoleColors.pdb
+C:\Users\kalfj\source\repos\ChangingConsoleColors\obj\Debug\netcoreapp3.1\ChangingConsoleColors.csprojAssemblyReference.cache
+C:\Users\kalfj\source\repos\ChangingConsoleColors\obj\Debug\netcoreapp3.1\ChangingConsoleColors.AssemblyInfoInputs.cache
+C:\Users\kalfj\source\repos\ChangingConsoleColors\obj\Debug\netcoreapp3.1\ChangingConsoleColors.AssemblyInfo.cs
+C:\Users\kalfj\source\repos\ChangingConsoleColors\obj\Debug\netcoreapp3.1\ChangingConsoleColors.csproj.CoreCompileInputs.cache
+C:\Users\kalfj\source\repos\ChangingConsoleColors\obj\Debug\netcoreapp3.1\ChangingConsoleColors.dll
+C:\Users\kalfj\source\repos\ChangingConsoleColors\obj\Debug\netcoreapp3.1\ChangingConsoleColors.pdb
+C:\Users\kalfj\source\repos\ChangingConsoleColors\obj\Debug\netcoreapp3.1\ChangingConsoleColors.genruntimeconfig.cache

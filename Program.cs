@@ -6,7 +6,9 @@ namespace ChangingConsoleColors
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.Clear();
         }
     }
 }
